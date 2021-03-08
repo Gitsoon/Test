@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    int speed = 2;
+    int speed = 3;
 
     return 1;
 }
