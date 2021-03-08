@@ -7,5 +7,7 @@ int main(void)
 
     double c = 0.0;
 
+    int speed = 1;
+
     return 1;
 }
